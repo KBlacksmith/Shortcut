@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=3.5
+Name=Godot Engine
+GenericName=Game Engine
+Comment=Open Source, Multi-Platform Game Engine
+Exec=/home/kenneth/Applications/AppImages/bin/Godot_v3.5-stable_x11.64
+Path=/home/kenneth/Applications/AppImages/bin/
+Icon=/home/kenneth/Applications/AppImages/bin/DesktopIcons/godot_icon.svg
+Terminal=false
+Type=Application
+Categories=Application
